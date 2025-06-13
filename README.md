@@ -1,15 +1,14 @@
 
-how to get this running!
-
-1. insert libflutterembedder.dylib into run dir
-2. insert libnative.dylib into run dir
-3. find yourself icudtl from framework file and put that also into run dir
-4. flutter app is under myapp dir in run dir
-5. also native lib is only for macos so have fun with that too.
-
 # Architectury Loom based template for 1.8.9 forge mods
 
 **For other templates, do check out the [other branches of this repository](https://github.com/romangraef/Forge1.8.9Template/branches/all)**
+
+## Quickstart
+1. Insert libflutterembedder.dylib into run dir
+2. Insert libnative.dylib into run dir
+3. Find yourself icudtl from framework file and put that also into run dir
+4. Flutter app is under myapp dir in run dir
+5. Also native lib is only for macos so have fun with that too.
 
 ## Usage
 
